@@ -1,5 +1,7 @@
 *.out
-.DS_Store 
+.DS_Store
 *.dSYM
 *.txt
 Ju0.cpp
+Ju_11.cpp
+.vscode
