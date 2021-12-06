@@ -1,0 +1,5 @@
+*.out
+.DS_Store 
+*.dSYM
+*.txt
+Ju0.cpp
